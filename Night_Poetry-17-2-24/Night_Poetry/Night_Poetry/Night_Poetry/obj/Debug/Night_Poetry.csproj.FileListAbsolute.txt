@@ -1,0 +1,127 @@
+E:\program project\vs project\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+E:\program project\vs project\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+E:\program project\vs project\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+E:\program project\vs project\Night_Poetry\Night_Poetry\bin\Debug\scope.dll
+E:\program project\vs project\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+E:\program project\vs project\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry - 副本\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-22\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry-9-28 - 副本\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry-2-22-17\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\scope.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-22\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
