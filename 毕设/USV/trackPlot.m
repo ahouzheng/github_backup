@@ -1,1 +1,2 @@
-plot(x,y)
+figure;
+plot(x, y, '*');
