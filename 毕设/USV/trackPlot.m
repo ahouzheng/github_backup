@@ -1,0 +1,3 @@
+figure;
+plot(x, y, '*');
+
