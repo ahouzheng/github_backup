@@ -1,6 +1,6 @@
  usv_model_sfun
 
- Timestamp is 5aec48c8 (Fri May 04 19:49:28 2018)
+ Timestamp is 5aef00b0 (Sun May 06 21:18:40 2018)
 
  Preferred load address is 0000000180000000
 
@@ -32,10 +32,10 @@
   Address         Publics by Value              Rva+Base               Lib:Object
 
  0000:00000000       __guard_fids_count         0000000000000000     <absolute>
- 0000:00000000       ___safe_se_handler_table   0000000000000000     <absolute>
  0000:00000000       __guard_fids_table         0000000000000000     <absolute>
- 0000:00000000       ___safe_se_handler_count   0000000000000000     <absolute>
+ 0000:00000000       ___safe_se_handler_table   0000000000000000     <absolute>
  0000:00000000       __guard_flags              0000000000000000     <absolute>
+ 0000:00000000       ___safe_se_handler_count   0000000000000000     <absolute>
  0000:00000000       __ImageBase                0000000180000000     <linker-defined>
  0001:00000000       usv_model_initializer      0000000180001000 f   usv_model_sfun.obj
  0001:00000010       usv_model_terminator       0000000180001010 f   usv_model_sfun.obj
@@ -515,10 +515,10 @@
  0002:00000630       __real@4066800000000000    0000000180012630     c6_usv_model.obj
  0002:00000638       __real@407e10e6e98e8ef2    0000000180012638     c6_usv_model.obj
  0002:00000640       __real@408f400000000000    0000000180012640     c6_usv_model.obj
- 0002:00000648       __real@41d09b0c50400000    0000000180012648     c6_usv_model.obj
- 0002:00000650       __real@41dc636bc5c00000    0000000180012650     c6_usv_model.obj
- 0002:00000658       __real@41dcc7f5f2000000    0000000180012658     c6_usv_model.obj
- 0002:00000660       __real@41e81fba95400000    0000000180012660     c6_usv_model.obj
+ 0002:00000648       __real@41d21a91c0800000    0000000180012648     c6_usv_model.obj
+ 0002:00000650       __real@41dfd4aea1800000    0000000180012650     c6_usv_model.obj
+ 0002:00000658       __real@41e7c10298e00000    0000000180012658     c6_usv_model.obj
+ 0002:00000660       __real@41e7df87e8000000    0000000180012660     c6_usv_model.obj
  0002:00000668       __real@c024000000000000    0000000180012668     c6_usv_model.obj
  0002:00000670       __xmm@80000000000000008000000000000000 0000000180012670     c6_usv_model.obj
  0002:00000680       DYNAMIC_DIMENSION_DEF      0000000180012680     usv_model_sfun_registry.obj
@@ -529,8 +529,8 @@
  0002:00000b20       _ssBadLevel2ZeroDirectFeedMsg2 0000000180012b20     usv_model_sfun_registry.obj
  0002:00000c08       __real@41602cbca0000000    0000000180012c08     usv_model_sfun_registry.obj
  0002:00000c10       __real@bff0000000000000    0000000180012c10     usv_model_sfun_registry.obj
- 0002:00000c28       _pRawDllMain               0000000180012c28     MSVCRT:crtdll.obj
  0002:00000c28       _pDefaultRawDllMain        0000000180012c28     MSVCRT:crtdll.obj
+ 0002:00000c28       _pRawDllMain               0000000180012c28     MSVCRT:crtdll.obj
  0002:00000c30       ?ProcessDetach@NativeDll@<CrtImplementationDetails>@@0IB 0000000180012c30     MSVCRT:initsect.obj
  0002:00000c34       ?ProcessAttach@NativeDll@<CrtImplementationDetails>@@0IB 0000000180012c34     MSVCRT:initsect.obj
  0002:00000c38       ?ThreadAttach@NativeDll@<CrtImplementationDetails>@@0IB 0000000180012c38     MSVCRT:initsect.obj
