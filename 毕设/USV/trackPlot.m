@@ -3,7 +3,7 @@ figure;
 plot(x1, y1);
 
 hold on;
-plot(x2, y2, '>');
+plot(x2, y2);
 
 hold on;
 plot(x3, y3);

@@ -2,11 +2,11 @@
 
 #include "MASs_sfun.h"
 #include "MASs_sfun_debug_macros.h"
-#include "c8_MASs.h"
-#include "c15_MASs.h"
-#include "c22_MASs.h"
-#include "c29_MASs.h"
-#include "c36_MASs.h"
+#include "c9_MASs.h"
+#include "c16_MASs.h"
+#include "c23_MASs.h"
+#include "c30_MASs.h"
+#include "c37_MASs.h"
 
 /* Type Definitions */
 
@@ -32,28 +32,28 @@ void MASs_terminator(void)
 unsigned int sf_MASs_method_dispatcher(SimStruct *simstructPtr, unsigned int
   chartFileNumber, const char* specsCksum, int_T method, void *data)
 {
-  if (chartFileNumber==8) {
-    c8_MASs_method_dispatcher(simstructPtr, method, data);
+  if (chartFileNumber==9) {
+    c9_MASs_method_dispatcher(simstructPtr, method, data);
     return 1;
   }
 
-  if (chartFileNumber==15) {
-    c15_MASs_method_dispatcher(simstructPtr, method, data);
+  if (chartFileNumber==16) {
+    c16_MASs_method_dispatcher(simstructPtr, method, data);
     return 1;
   }
 
-  if (chartFileNumber==22) {
-    c22_MASs_method_dispatcher(simstructPtr, method, data);
+  if (chartFileNumber==23) {
+    c23_MASs_method_dispatcher(simstructPtr, method, data);
     return 1;
   }
 
-  if (chartFileNumber==29) {
-    c29_MASs_method_dispatcher(simstructPtr, method, data);
+  if (chartFileNumber==30) {
+    c30_MASs_method_dispatcher(simstructPtr, method, data);
     return 1;
   }
 
-  if (chartFileNumber==36) {
-    c36_MASs_method_dispatcher(simstructPtr, method, data);
+  if (chartFileNumber==37) {
+    c37_MASs_method_dispatcher(simstructPtr, method, data);
     return 1;
   }
 
@@ -99,38 +99,38 @@ unsigned int sf_MASs_process_check_sum_call( int nlhs, mxArray * plhs[], int
       unsigned int chartFileNumber;
       chartFileNumber = (unsigned int)mxGetScalar(prhs[2]);
       switch (chartFileNumber) {
-       case 8:
+       case 9:
         {
-          extern void sf_c8_MASs_get_check_sum(mxArray *plhs[]);
-          sf_c8_MASs_get_check_sum(plhs);
+          extern void sf_c9_MASs_get_check_sum(mxArray *plhs[]);
+          sf_c9_MASs_get_check_sum(plhs);
           break;
         }
 
-       case 15:
+       case 16:
         {
-          extern void sf_c15_MASs_get_check_sum(mxArray *plhs[]);
-          sf_c15_MASs_get_check_sum(plhs);
+          extern void sf_c16_MASs_get_check_sum(mxArray *plhs[]);
+          sf_c16_MASs_get_check_sum(plhs);
           break;
         }
 
-       case 22:
+       case 23:
         {
-          extern void sf_c22_MASs_get_check_sum(mxArray *plhs[]);
-          sf_c22_MASs_get_check_sum(plhs);
+          extern void sf_c23_MASs_get_check_sum(mxArray *plhs[]);
+          sf_c23_MASs_get_check_sum(plhs);
           break;
         }
 
-       case 29:
+       case 30:
         {
-          extern void sf_c29_MASs_get_check_sum(mxArray *plhs[]);
-          sf_c29_MASs_get_check_sum(plhs);
+          extern void sf_c30_MASs_get_check_sum(mxArray *plhs[]);
+          sf_c30_MASs_get_check_sum(plhs);
           break;
         }
 
-       case 36:
+       case 37:
         {
-          extern void sf_c36_MASs_get_check_sum(mxArray *plhs[]);
-          sf_c36_MASs_get_check_sum(plhs);
+          extern void sf_c37_MASs_get_check_sum(mxArray *plhs[]);
+          sf_c37_MASs_get_check_sum(plhs);
           break;
         }
 
@@ -188,11 +188,11 @@ unsigned int sf_MASs_autoinheritance_info( int nlhs, mxArray * plhs[], int nrhs,
     unsigned int chartFileNumber;
     chartFileNumber = (unsigned int)mxGetScalar(prhs[1]);
     switch (chartFileNumber) {
-     case 8:
+     case 9:
       {
-        if (strcmp(aiChksum, "S7gGSFTXzXNRQ3ZUCmf5FC") == 0) {
-          extern mxArray *sf_c8_MASs_get_autoinheritance_info(void);
-          plhs[0] = sf_c8_MASs_get_autoinheritance_info();
+        if (strcmp(aiChksum, "8lzI7HIT1Nn9dVAUuTjloF") == 0) {
+          extern mxArray *sf_c9_MASs_get_autoinheritance_info(void);
+          plhs[0] = sf_c9_MASs_get_autoinheritance_info();
           break;
         }
 
@@ -200,11 +200,11 @@ unsigned int sf_MASs_autoinheritance_info( int nlhs, mxArray * plhs[], int nrhs,
         break;
       }
 
-     case 15:
+     case 16:
       {
-        if (strcmp(aiChksum, "S7gGSFTXzXNRQ3ZUCmf5FC") == 0) {
-          extern mxArray *sf_c15_MASs_get_autoinheritance_info(void);
-          plhs[0] = sf_c15_MASs_get_autoinheritance_info();
+        if (strcmp(aiChksum, "8lzI7HIT1Nn9dVAUuTjloF") == 0) {
+          extern mxArray *sf_c16_MASs_get_autoinheritance_info(void);
+          plhs[0] = sf_c16_MASs_get_autoinheritance_info();
           break;
         }
 
@@ -212,11 +212,11 @@ unsigned int sf_MASs_autoinheritance_info( int nlhs, mxArray * plhs[], int nrhs,
         break;
       }
 
-     case 22:
+     case 23:
       {
-        if (strcmp(aiChksum, "S7gGSFTXzXNRQ3ZUCmf5FC") == 0) {
-          extern mxArray *sf_c22_MASs_get_autoinheritance_info(void);
-          plhs[0] = sf_c22_MASs_get_autoinheritance_info();
+        if (strcmp(aiChksum, "8lzI7HIT1Nn9dVAUuTjloF") == 0) {
+          extern mxArray *sf_c23_MASs_get_autoinheritance_info(void);
+          plhs[0] = sf_c23_MASs_get_autoinheritance_info();
           break;
         }
 
@@ -224,11 +224,11 @@ unsigned int sf_MASs_autoinheritance_info( int nlhs, mxArray * plhs[], int nrhs,
         break;
       }
 
-     case 29:
+     case 30:
       {
-        if (strcmp(aiChksum, "S7gGSFTXzXNRQ3ZUCmf5FC") == 0) {
-          extern mxArray *sf_c29_MASs_get_autoinheritance_info(void);
-          plhs[0] = sf_c29_MASs_get_autoinheritance_info();
+        if (strcmp(aiChksum, "8lzI7HIT1Nn9dVAUuTjloF") == 0) {
+          extern mxArray *sf_c30_MASs_get_autoinheritance_info(void);
+          plhs[0] = sf_c30_MASs_get_autoinheritance_info();
           break;
         }
 
@@ -236,11 +236,11 @@ unsigned int sf_MASs_autoinheritance_info( int nlhs, mxArray * plhs[], int nrhs,
         break;
       }
 
-     case 36:
+     case 37:
       {
-        if (strcmp(aiChksum, "S7gGSFTXzXNRQ3ZUCmf5FC") == 0) {
-          extern mxArray *sf_c36_MASs_get_autoinheritance_info(void);
-          plhs[0] = sf_c36_MASs_get_autoinheritance_info();
+        if (strcmp(aiChksum, "8lzI7HIT1Nn9dVAUuTjloF") == 0) {
+          extern mxArray *sf_c37_MASs_get_autoinheritance_info(void);
+          plhs[0] = sf_c37_MASs_get_autoinheritance_info();
           break;
         }
 
@@ -283,51 +283,51 @@ unsigned int sf_MASs_get_eml_resolved_functions_info( int nlhs, mxArray * plhs[]
     unsigned int chartFileNumber;
     chartFileNumber = (unsigned int)mxGetScalar(prhs[1]);
     switch (chartFileNumber) {
-     case 8:
+     case 9:
       {
-        extern const mxArray *sf_c8_MASs_get_eml_resolved_functions_info(void);
+        extern const mxArray *sf_c9_MASs_get_eml_resolved_functions_info(void);
         mxArray *persistentMxArray = (mxArray *)
-          sf_c8_MASs_get_eml_resolved_functions_info();
+          sf_c9_MASs_get_eml_resolved_functions_info();
         plhs[0] = mxDuplicateArray(persistentMxArray);
         mxDestroyArray(persistentMxArray);
         break;
       }
 
-     case 15:
+     case 16:
       {
-        extern const mxArray *sf_c15_MASs_get_eml_resolved_functions_info(void);
+        extern const mxArray *sf_c16_MASs_get_eml_resolved_functions_info(void);
         mxArray *persistentMxArray = (mxArray *)
-          sf_c15_MASs_get_eml_resolved_functions_info();
+          sf_c16_MASs_get_eml_resolved_functions_info();
         plhs[0] = mxDuplicateArray(persistentMxArray);
         mxDestroyArray(persistentMxArray);
         break;
       }
 
-     case 22:
+     case 23:
       {
-        extern const mxArray *sf_c22_MASs_get_eml_resolved_functions_info(void);
+        extern const mxArray *sf_c23_MASs_get_eml_resolved_functions_info(void);
         mxArray *persistentMxArray = (mxArray *)
-          sf_c22_MASs_get_eml_resolved_functions_info();
+          sf_c23_MASs_get_eml_resolved_functions_info();
         plhs[0] = mxDuplicateArray(persistentMxArray);
         mxDestroyArray(persistentMxArray);
         break;
       }
 
-     case 29:
+     case 30:
       {
-        extern const mxArray *sf_c29_MASs_get_eml_resolved_functions_info(void);
+        extern const mxArray *sf_c30_MASs_get_eml_resolved_functions_info(void);
         mxArray *persistentMxArray = (mxArray *)
-          sf_c29_MASs_get_eml_resolved_functions_info();
+          sf_c30_MASs_get_eml_resolved_functions_info();
         plhs[0] = mxDuplicateArray(persistentMxArray);
         mxDestroyArray(persistentMxArray);
         break;
       }
 
-     case 36:
+     case 37:
       {
-        extern const mxArray *sf_c36_MASs_get_eml_resolved_functions_info(void);
+        extern const mxArray *sf_c37_MASs_get_eml_resolved_functions_info(void);
         mxArray *persistentMxArray = (mxArray *)
-          sf_c36_MASs_get_eml_resolved_functions_info();
+          sf_c37_MASs_get_eml_resolved_functions_info();
         plhs[0] = mxDuplicateArray(persistentMxArray);
         mxDestroyArray(persistentMxArray);
         break;
@@ -368,47 +368,47 @@ unsigned int sf_MASs_third_party_uses_info( int nlhs, mxArray * plhs[], int nrhs
     unsigned int chartFileNumber;
     chartFileNumber = (unsigned int)mxGetScalar(prhs[1]);
     switch (chartFileNumber) {
-     case 8:
+     case 9:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c8_MASs_third_party_uses_info(void);
-          plhs[0] = sf_c8_MASs_third_party_uses_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c9_MASs_third_party_uses_info(void);
+          plhs[0] = sf_c9_MASs_third_party_uses_info();
           break;
         }
       }
 
-     case 15:
+     case 16:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c15_MASs_third_party_uses_info(void);
-          plhs[0] = sf_c15_MASs_third_party_uses_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c16_MASs_third_party_uses_info(void);
+          plhs[0] = sf_c16_MASs_third_party_uses_info();
           break;
         }
       }
 
-     case 22:
+     case 23:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c22_MASs_third_party_uses_info(void);
-          plhs[0] = sf_c22_MASs_third_party_uses_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c23_MASs_third_party_uses_info(void);
+          plhs[0] = sf_c23_MASs_third_party_uses_info();
           break;
         }
       }
 
-     case 29:
+     case 30:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c29_MASs_third_party_uses_info(void);
-          plhs[0] = sf_c29_MASs_third_party_uses_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c30_MASs_third_party_uses_info(void);
+          plhs[0] = sf_c30_MASs_third_party_uses_info();
           break;
         }
       }
 
-     case 36:
+     case 37:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c36_MASs_third_party_uses_info(void);
-          plhs[0] = sf_c36_MASs_third_party_uses_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c37_MASs_third_party_uses_info(void);
+          plhs[0] = sf_c37_MASs_third_party_uses_info();
           break;
         }
       }
@@ -441,47 +441,47 @@ unsigned int sf_MASs_jit_fallback_info( int nlhs, mxArray * plhs[], int nrhs,
     unsigned int chartFileNumber;
     chartFileNumber = (unsigned int)mxGetScalar(prhs[1]);
     switch (chartFileNumber) {
-     case 8:
+     case 9:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c8_MASs_jit_fallback_info(void);
-          plhs[0] = sf_c8_MASs_jit_fallback_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c9_MASs_jit_fallback_info(void);
+          plhs[0] = sf_c9_MASs_jit_fallback_info();
           break;
         }
       }
 
-     case 15:
+     case 16:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c15_MASs_jit_fallback_info(void);
-          plhs[0] = sf_c15_MASs_jit_fallback_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c16_MASs_jit_fallback_info(void);
+          plhs[0] = sf_c16_MASs_jit_fallback_info();
           break;
         }
       }
 
-     case 22:
+     case 23:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c22_MASs_jit_fallback_info(void);
-          plhs[0] = sf_c22_MASs_jit_fallback_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c23_MASs_jit_fallback_info(void);
+          plhs[0] = sf_c23_MASs_jit_fallback_info();
           break;
         }
       }
 
-     case 29:
+     case 30:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c29_MASs_jit_fallback_info(void);
-          plhs[0] = sf_c29_MASs_jit_fallback_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c30_MASs_jit_fallback_info(void);
+          plhs[0] = sf_c30_MASs_jit_fallback_info();
           break;
         }
       }
 
-     case 36:
+     case 37:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c36_MASs_jit_fallback_info(void);
-          plhs[0] = sf_c36_MASs_jit_fallback_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c37_MASs_jit_fallback_info(void);
+          plhs[0] = sf_c37_MASs_jit_fallback_info();
           break;
         }
       }
@@ -514,47 +514,47 @@ unsigned int sf_MASs_updateBuildInfo_args_info( int nlhs, mxArray * plhs[], int
     unsigned int chartFileNumber;
     chartFileNumber = (unsigned int)mxGetScalar(prhs[1]);
     switch (chartFileNumber) {
-     case 8:
+     case 9:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c8_MASs_updateBuildInfo_args_info(void);
-          plhs[0] = sf_c8_MASs_updateBuildInfo_args_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c9_MASs_updateBuildInfo_args_info(void);
+          plhs[0] = sf_c9_MASs_updateBuildInfo_args_info();
           break;
         }
       }
 
-     case 15:
+     case 16:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c15_MASs_updateBuildInfo_args_info(void);
-          plhs[0] = sf_c15_MASs_updateBuildInfo_args_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c16_MASs_updateBuildInfo_args_info(void);
+          plhs[0] = sf_c16_MASs_updateBuildInfo_args_info();
           break;
         }
       }
 
-     case 22:
+     case 23:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c22_MASs_updateBuildInfo_args_info(void);
-          plhs[0] = sf_c22_MASs_updateBuildInfo_args_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c23_MASs_updateBuildInfo_args_info(void);
+          plhs[0] = sf_c23_MASs_updateBuildInfo_args_info();
           break;
         }
       }
 
-     case 29:
+     case 30:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c29_MASs_updateBuildInfo_args_info(void);
-          plhs[0] = sf_c29_MASs_updateBuildInfo_args_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c30_MASs_updateBuildInfo_args_info(void);
+          plhs[0] = sf_c30_MASs_updateBuildInfo_args_info();
           break;
         }
       }
 
-     case 36:
+     case 37:
       {
-        if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-          extern mxArray *sf_c36_MASs_updateBuildInfo_args_info(void);
-          plhs[0] = sf_c36_MASs_updateBuildInfo_args_info();
+        if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+          extern mxArray *sf_c37_MASs_updateBuildInfo_args_info(void);
+          plhs[0] = sf_c37_MASs_updateBuildInfo_args_info();
           break;
         }
       }
@@ -575,51 +575,51 @@ void sf_MASs_get_post_codegen_info( int nlhs, mxArray * plhs[], int nrhs, const
   mxGetString(prhs[1], tpChksum,sizeof(tpChksum)/sizeof(char));
   tpChksum[(sizeof(tpChksum)/sizeof(char)-1)] = '\0';
   switch (chartFileNumber) {
-   case 8:
+   case 9:
     {
-      if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-        extern mxArray *sf_c8_MASs_get_post_codegen_info(void);
-        plhs[0] = sf_c8_MASs_get_post_codegen_info();
+      if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+        extern mxArray *sf_c9_MASs_get_post_codegen_info(void);
+        plhs[0] = sf_c9_MASs_get_post_codegen_info();
         return;
       }
     }
     break;
 
-   case 15:
+   case 16:
     {
-      if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-        extern mxArray *sf_c15_MASs_get_post_codegen_info(void);
-        plhs[0] = sf_c15_MASs_get_post_codegen_info();
+      if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+        extern mxArray *sf_c16_MASs_get_post_codegen_info(void);
+        plhs[0] = sf_c16_MASs_get_post_codegen_info();
         return;
       }
     }
     break;
 
-   case 22:
+   case 23:
     {
-      if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-        extern mxArray *sf_c22_MASs_get_post_codegen_info(void);
-        plhs[0] = sf_c22_MASs_get_post_codegen_info();
+      if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+        extern mxArray *sf_c23_MASs_get_post_codegen_info(void);
+        plhs[0] = sf_c23_MASs_get_post_codegen_info();
         return;
       }
     }
     break;
 
-   case 29:
+   case 30:
     {
-      if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-        extern mxArray *sf_c29_MASs_get_post_codegen_info(void);
-        plhs[0] = sf_c29_MASs_get_post_codegen_info();
+      if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+        extern mxArray *sf_c30_MASs_get_post_codegen_info(void);
+        plhs[0] = sf_c30_MASs_get_post_codegen_info();
         return;
       }
     }
     break;
 
-   case 36:
+   case 37:
     {
-      if (strcmp(tpChksum, "sVnreL6srNnvOymngDFKm9D") == 0) {
-        extern mxArray *sf_c36_MASs_get_post_codegen_info(void);
-        plhs[0] = sf_c36_MASs_get_post_codegen_info();
+      if (strcmp(tpChksum, "szgERixxwJPfc78HRHoQdVF") == 0) {
+        extern mxArray *sf_c37_MASs_get_post_codegen_info(void);
+        plhs[0] = sf_c37_MASs_get_post_codegen_info();
         return;
       }
     }

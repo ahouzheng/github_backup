@@ -21,9 +21,6 @@
 struct SfDebugInstanceStruct;
 extern struct SfDebugInstanceStruct* sfGlobalDebugInstanceStruct;
 
-/* Auxiliary Header Files */
-#include "lapacke.h"
-
 /* Type Definitions */
 
 /* Named Constants */

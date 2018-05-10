@@ -6,7 +6,7 @@ CPU = AMD64
 
 MODEL     = MASs
 TARGET      = sfun
-MODULE_SRCS   = c8_MASs.c c15_MASs.c c22_MASs.c c29_MASs.c c36_MASs.c
+MODULE_SRCS   = c9_MASs.c c16_MASs.c c23_MASs.c c30_MASs.c c37_MASs.c
 MODEL_SRC  = MASs_sfun.c
 MODEL_REG = MASs_sfun_registry.c
 MAKEFILE    = MASs_sfun.mak
