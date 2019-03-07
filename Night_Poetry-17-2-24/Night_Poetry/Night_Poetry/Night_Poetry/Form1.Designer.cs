@@ -1526,7 +1526,7 @@
             this.db12_label.Name = "db12_label";
             this.db12_label.Size = new System.Drawing.Size(39, 29);
             this.db12_label.TabIndex = 19;
-            this.db12_label.Text = "CH5";
+            this.db12_label.Text = "CH6";
             this.db12_label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // db11_label

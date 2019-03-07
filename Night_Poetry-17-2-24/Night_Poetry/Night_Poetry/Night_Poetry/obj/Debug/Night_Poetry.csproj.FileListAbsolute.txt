@@ -125,3 +125,15 @@ C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Ni
 C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
 C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe.config
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.exe
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.pdb
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.exe
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\bin\Debug\Night_Poetry.pdb
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csprojResolveAssemblyReference.cache
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.channel_Set.resources
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.debug_Ch_Set.resources
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.filter_Set.resources
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.main_Form.resources
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.Properties.Resources.resources
+I:\desktop\github_backup\Night_Poetry-17-2-24\Night_Poetry\Night_Poetry\Night_Poetry\obj\Debug\Night_Poetry.csproj.GenerateResource.Cache
